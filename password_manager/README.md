@@ -35,9 +35,9 @@ A secure password manager written in Python that encrypts stored passwords using
 ### Prerequisites
 
 - **Python 3.6+** installed on your system.
-- Install the `cryptography` library:
+- Install the required dependencies:
   ```bash
-  pip install cryptography
+  pip install -r requirements.txt
   ```
 
 ### Generating a Key File
@@ -106,7 +106,7 @@ User: Gmail | Password: mySecureP@ssw0rd
 
 ## Dependencies
 
-- [cryptography](https://cryptography.io/)
+- **cryptography**: Used for encrypting and decrypting passwords.
 
 ---
 
@@ -118,3 +118,5 @@ This project is licensed under the MIT License.
 
 Enjoy managing your passwords securely! 🔒
 ```
+
+This complete `README.md` file provides clear instructions for setting up, using, and understanding the **Password Manager with Encryption** project, along with necessary prerequisites and notes for security.
