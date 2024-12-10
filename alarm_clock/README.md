@@ -1,5 +1,3 @@
-Here's the updated `README.md` based on the file names you provided:
-
 ```markdown
 # Alarm Sound Player
 
